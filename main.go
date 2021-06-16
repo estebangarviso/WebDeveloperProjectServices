@@ -67,7 +67,7 @@ func handleRequests() {
 }
 
 func main() {
-	fmt.Println("Starting Aplication")
+	fmt.Println("App Started")
 	Products = []Product{
 		{Id: "1", Name: "Producto 1", Description: "Descripción 1", Price: "9999"},
 		{Id: "2", Name: "Producto 2", Description: "Descripción 2", Price: "9998"},

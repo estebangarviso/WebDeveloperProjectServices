@@ -1,4 +1,4 @@
-module github.com/estebangarviso/api-webdev
+module github.com/estebangarviso/WebDeveloperProjectServices
 
 go 1.15
 
